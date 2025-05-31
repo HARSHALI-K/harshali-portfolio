@@ -50,7 +50,7 @@ const projects = [
     description: 'Modern portfolio website built with Next.js, Material-UI, and Framer Motion featuring smooth animations and responsive design.',
     image: '/porfolio.png',
     technologies: ['Next.js', 'TypeScript', 'Material-UI', 'Framer Motion'],
-    live: 'https://sevak-army.com',
+    live: 'https://harshali-portfolio-xi.vercel.app/',
   },
   // {
   //   title: 'AI Task Manager',
