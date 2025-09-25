@@ -50,7 +50,7 @@ const Footer = () => {
             </Box>
           </Typography>
 
-          <Stack
+          {/* <Stack
             direction="row"
             spacing={1}
             component={motion.div}
@@ -80,7 +80,7 @@ const Footer = () => {
                 {link.icon}
               </Button>
             ))}
-          </Stack>
+          </Stack> */}
 
           <Typography
             variant="body2"
